@@ -1,0 +1,11 @@
+{
+    "name": "UniOpenCLI.Generated",
+    "rootNamespace": "UniOpenCLI.Generated",
+    "references": [
+        "UniOpenCLI.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false
+}
